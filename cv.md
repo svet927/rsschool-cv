@@ -9,5 +9,5 @@
    * Git basic level
  1.  [Code examples](https://github.com/svet927/svet.github.io.git)
  1. Experience: courses https://learn.javascript.ru and https://htmlacademy.ru/
- 1. Education: SSAU engineer
+ 1. Education: SSAU engineer.
  1. English: pre-intermediate level
